@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "client": "^0.0.1",
+    "refix": "^0.1.4"
+  }
+}
